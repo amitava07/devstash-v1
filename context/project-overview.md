@@ -328,10 +328,11 @@ git switch -c lesson-01-setup
 
 ---
 
-## 📌 Status
+## Screenshots
+Refer to the screenshots below as a base for the dashboard UI. It doesnot have to be exact. Use it as a reference.
 
-- In planning
-- Ready for environment setup & UI scaffolding
+- @context/screenshots/dashboard-ui-main.png
+- @context/screenshots/dashboard-ui-drawer.png
 
 ---
 
